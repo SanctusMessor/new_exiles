@@ -11,7 +11,7 @@ TLDR stuff you want
 
 # Build Guides
 Path of Building - [Website](https://pathofbuilding.community/) | [Github](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
-- poebuilds.cc
+- [poebuilds.cc](poebuilds.cc)
 
 # Trade
 - https://www.pathofexile.com/trade/search/Expedition (official)
